@@ -114,6 +114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7baa8f2db41354245acbbff1e03ecf3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sparkPrefab: {fileID: 5756917381384626368, guid: 1927aef7a9be9b84db28764bbc4a3ec4, type: 3}
 --- !u!136 &7155475385767168165
 CapsuleCollider:
   m_ObjectHideFlags: 0

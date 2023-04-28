@@ -3100,8 +3100,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetPrefab: {fileID: 2396222739211367022, guid: 9154a9a2f30e2894e9bcfc0a0466d67d, type: 3}
   playerTransform: {fileID: 65284394}
-  spawnRadius: 20
-  maxTargets: 50
+  spawnRadius: 10
+  maxTargets: 100
   spawnInterval: 0.5
 --- !u!4 &1225858646
 Transform:
